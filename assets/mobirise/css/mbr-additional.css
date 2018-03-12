@@ -24,17 +24,17 @@ body {
 }
 .display-1 {
   font-family: 'Anton', sans-serif;
-  font-size: 4rem;
+  font-size: 3.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 5.12rem;
 }
 .display-2 {
   font-family: 'Amatic SC', handwriting;
-  font-size: 4rem;
+  font-size: 3.2rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 6.4rem;
+  font-size: 5.12rem;
 }
 .display-4 {
   font-family: 'Hammersmith One', sans-serif;
@@ -64,14 +64,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.56rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 3.2rem;
-    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.56rem;
+    font-size: calc( 1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.12rem;
@@ -1758,7 +1758,7 @@ body {
 }
 .cid-qM39Vu9WLg {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qM39Vu9WLg H1 {
@@ -1775,7 +1775,7 @@ body {
 }
 .cid-qM3hbuKxIs {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qM3hbuKxIs .mbr-text,
@@ -1792,4 +1792,18 @@ body {
 }
 .cid-qM3mjCpQNJ .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qM3mjCpQNJ H3 {
+  color: #ffffff;
+}
+.cid-qM3wk2Y1Sk {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+}
+.cid-qM3wk2Y1Sk .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-qM3wk2Y1Sk H3 {
+  color: #ffffff;
 }
