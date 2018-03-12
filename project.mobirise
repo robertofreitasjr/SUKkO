@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/sukko-detox-social-icon-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/sukko-detox-logo.svg",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
