@@ -1775,7 +1775,7 @@ body {
 }
 .cid-qM3hbuKxIs {
   padding-top: 45px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-qM3hbuKxIs .mbr-text,
@@ -1820,7 +1820,7 @@ body {
   color: #ffffff;
 }
 .cid-qM3X1CjvZV {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -1845,6 +1845,9 @@ body {
 .cid-qM3X1CjvZV .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qM3X1CjvZV B {
+  color: #000000;
 }
 .cid-qM3VHVMzBD {
   padding-top: 45px;
