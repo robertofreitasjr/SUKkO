@@ -1757,8 +1757,6 @@ body {
   color: #767676 !important;
 }
 .cid-qM39Vu9WLg {
-  padding-top: 135px;
-  padding-bottom: 135px;
   background-image: url("../../../assets/images/mbr-1620x1080.jpg");
 }
 .cid-qM39Vu9WLg H1 {
@@ -1773,18 +1771,8 @@ body {
 .cid-qM39Vu9WLg SPAN {
   color: #ffffff;
 }
-.cid-qM3hbuKxIs {
-  padding-top: 30px;
-  padding-bottom: 105px;
-  background-color: #ffffff;
-}
-.cid-qM3hbuKxIs .mbr-text,
-.cid-qM3hbuKxIs blockquote {
-  color: #767676;
-}
-.cid-qM3hbuKxIs .mbr-text P {
-  text-align: center;
-  color: #767676;
+.cid-qM39Vu9WLg P {
+  text-align: right;
 }
 .cid-qM8KPY4s24 {
   background-image: url("../../../assets/images/laranja-1920x1251.jpg");
